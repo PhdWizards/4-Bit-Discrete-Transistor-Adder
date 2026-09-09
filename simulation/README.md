@@ -188,4 +188,4 @@ The simulation helped verify the logic before committing to the final PCB implem
 
 The `tinkercad.txt` file contains the link to the interactive Tinkercad simulation.
 For the complete project, see the main repository documentation:
-[**Back to Main README**](../)
+[**Back to Main README**](../README.md)
