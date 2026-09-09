@@ -126,7 +126,7 @@ The two 7-segment displays therefore show:
 
 ## Simulation Screenshot
 The following image shows the complete simulated circuit in Tinkercad:
-![Tinkercad Simulation](images/tinkercad.png)
+![Tinkercad Simulation](../images/tinkercad.png)
 
 
 ## Tinkercad Simulation
@@ -188,4 +188,4 @@ The simulation helped verify the logic before committing to the final PCB implem
 
 The `tinkercad.txt` file contains the link to the interactive Tinkercad simulation.
 For the complete project, see the main repository documentation:
-[**Back to Main README**](README.md)
+[**Back to Main README**](../README.md)
